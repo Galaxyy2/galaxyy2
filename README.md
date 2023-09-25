@@ -7,8 +7,8 @@
 <BR>
 <h2 align="center">Github Stats</h2>
 <div align="center">
+
 [![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxyy2&theme=discord_old_blurple)](https://github.com/Galaxyy2)
-
-
+  </BR>
 
 </div>
