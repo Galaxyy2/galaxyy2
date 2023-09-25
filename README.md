@@ -10,5 +10,8 @@
 
 [![Baby Z's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galaxyy2&theme=discord_old_blurple)](https://github.com/Galaxyy2)
   </BR>
+  </BR>
+[![Baby Z's github stats](https://github-readme-stats.vercel.app/api?username=Galaxyy2&theme=discord_old_blurple)](https://github.com/Galaxyy2)
+
 
 </div>
